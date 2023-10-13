@@ -1,9 +1,22 @@
 import React from 'react'
 
-function App() {
+import Hero from './components/Hero'
+import Demo from './components/Demo'
 
+import './App.css'
+
+function App() {
   return (
-    <div>App</div>
+    <main>
+        <div className='main'>
+            <div className='gradient' />
+        </div>
+
+        <div className='app'>
+            <Hero />
+            <Demo />
+        </div>
+    </main>
   )
 }
 
