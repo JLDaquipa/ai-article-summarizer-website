@@ -1,5 +1,5 @@
 # OpenAI Article Summarizer Website
-
+### https://jldaquipa-ai-article-summarizer.netlify.app/
 <h3>Website Description</h3> 
 A website that simplifies your reading by transforming lengthy articles into clear and concise summaries.
 <br>
